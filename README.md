@@ -1,5 +1,5 @@
 # Java_Inheritance
-Uses inheritance to display the prices candies/desserts purchased utilizing a checkout system. More info on file "Inheritance Assignment" and checkout the website
+Uses inheritance to display the prices candies/desserts purchased utilizing a checkout system. More info on README file and checkout the website.
 
 UNC Charlotte
 Course: ECGR-4090 
