@@ -1,7 +1,11 @@
 # Java_Inheritance
 Information about assignment below:
 
-UNC Charlotte Course: ECGR-4090 Special Topics in Electrical Engineering: Internet of Things Professor: Dr. Arindam Mukerjee, PH.D.
+UNC Charlotte Course: ECGR-4090 
+
+Special Topics in Electrical Engineering: Internet of Things 
+
+Professor: Dr. Arindam Mukerjee, PH.D.
 
 Assignment Guidelines:
 
