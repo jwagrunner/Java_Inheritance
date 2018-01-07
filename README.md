@@ -1,6 +1,8 @@
 # Java_Inheritance
 Information about assignment below:
 
+Note: The codes used in the following projects were taken from various sources abd modified as instructed from professor.
+
 UNC Charlotte Course: ECGR-4090 
 
 Special Topics in Electrical Engineering: Internet of Things 
